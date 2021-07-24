@@ -3,7 +3,6 @@ import random
 import pickle
 import os.path
 import json
-from asyncio import sleep
 
 #all variables
 playerName = ""
